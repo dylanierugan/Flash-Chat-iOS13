@@ -2,10 +2,6 @@
 
 In this project tutorial, the goal was to learn how to use Table Views and create custom cells with a cloud-based backend database. 
 
-## What you will create
-
-Flash Chat is an internet based messaging app similar to WhatsApp, the popular messaging app that was bought by Facebook for $22 billion. We will be using a service called Firebase Firestore as a backend database to store and retrieve our messages from the cloud. 
-
 ## Topics Learned
 
 * How to integrate third party libraries in your app using Cocoapods and Swift Package Manager.
